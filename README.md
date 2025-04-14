@@ -3,6 +3,7 @@ Welcome to the Loan Approval Prediction App, an interactive and user-friendly we
 
 🔗 Live App: [Click here to access the app](https://luizaaelena-loan-approval-prediction-web-application-app-lzpife.streamlit.app/) 
 
+ 
 **🚀 Key Features**
 - 📂 Understand the Dataset: View detailed information about each feature in the dataset
 - 📊 Exploratory Data Analysis (EDA): Explore distributions, detect outliers, and analyze relationships

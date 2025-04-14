@@ -5,3 +5,5 @@ This application allows you to:
 - Perform Exploratory Data Analysis (EDA)
 - Visualize key insights
 - Build and evaluate machine learning models
+
+https://luizaaelena-loan-approval-prediction-web-application-app-lzpife.streamlit.app/ 

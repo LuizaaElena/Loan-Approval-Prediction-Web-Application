@@ -15,7 +15,7 @@ Welcome to the Loan Approval Prediction App, an interactive and user-friendly we
 
 To run the project locally:
 
-git clone https://github.com/your-username/Loan-Approval-Prediction-Web-Application.git
+git clone https://github.com/LuizaaElena/Loan-Approval-Prediction-Web-Application.git
 
 cd Loan-Approval-Prediction-Web-Application
 

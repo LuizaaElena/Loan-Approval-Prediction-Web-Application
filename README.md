@@ -1,4 +1,4 @@
-## 🏦 Loan Approval Prediction Web Application
+### 🏦 Loan Approval Prediction Web Application
 Welcome to the Loan Approval Prediction App, an interactive and user-friendly web application built with Streamlit. This project enables users to explore a synthetic loan dataset, perform data analysis, and predict loan approval outcomes using various machine learning models.
 
 🔗 Live App: [Click here to access the app](https://luizaaelena-loan-approval-prediction-web-application-app-lzpife.streamlit.app/) 

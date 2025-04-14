@@ -3,14 +3,14 @@ Welcome to the Loan Approval Prediction App, an interactive and user-friendly we
 
 🔗 Live App: [Click here to access the app](https://luizaaelena-loan-approval-prediction-web-application-app-lzpife.streamlit.app/) 
 
-🚀 Key Features
+**🚀 Key Features**
 - 📂 Understand the Dataset: View detailed information about each feature in the dataset
 - 📊 Exploratory Data Analysis (EDA): Explore distributions, detect outliers, and analyze relationships
 - 📈 Visualize Key Insights: Interactive charts and summaries to support interpretation
 - 🤖 Build & Evaluate ML Models: Train and compare multiple classification models
 
 
-📌 Getting Started
+**📌 Getting Started**
 To run the project locally:
 
 git clone https://github.com/your-username/Loan-Approval-Prediction-Web-Application.git
